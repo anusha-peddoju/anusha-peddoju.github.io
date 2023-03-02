@@ -1,1 +1,1 @@
-# responsive portfolio website on github
+# This is Responsive Portfolio Website of mine.
